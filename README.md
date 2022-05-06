@@ -16,5 +16,5 @@ Webpage and documents for SIPBS CompBiol hacky hours
 ## Hacky Hours
 
 - 2022-05-24
-  - Presentation: Using git and GitHub to manage projects (Leighton Pritchard)
+  - Presentation: Using `git` and GitHub to manage projects (Leighton Pritchard)
 
